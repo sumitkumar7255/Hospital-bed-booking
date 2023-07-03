@@ -1,0 +1,71 @@
+.login-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-image: url('https://c8.alamy.com/zooms/9/220b6841ccad4fffaee06d69c47b4d18/rx133f.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.form-container1 {
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 40%;
+  height: 60%; 
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.logInput {
+  width: 80%;
+  height: 22px;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  border: 2px solid black;
+}
+
+.logButton1 {
+  margin-top: 8px;
+  width: 81%;
+  height: 40px;
+  background-color: #37c1f3;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bolder;
+ 
+
+  
+}
+.button:hover{
+background-color: black;
+color: white;
+padding: 10px;
+border-radius: 10px;
+}
+.logButton1{
+  margin-top: 8px;
+  width: 81%;
+  height: 40px;
+  background-color: #37c1f3;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bolder;
+}
+.logButton1:hover{
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  }

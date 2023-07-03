@@ -1,0 +1,41 @@
+.navbar{
+    height: 50px;
+    background-color: rgb(25, 25, 101);
+    justify-content: space-between;
+    display: flex;
+    width: 98em;
+}
+.navContainer{
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    font-weight: 450;
+    font-size: 30px;
+    margin: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+.navButton{
+    margin-left: 20px;
+    border: 5px white;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: azure;
+
+}
+.login{
+    margin-right: 50px;
+}
+.homeLogo{
+    color: rgb(253, 3, 3);
+    font-size: 30px;
+    margin-left: 230px;
+}

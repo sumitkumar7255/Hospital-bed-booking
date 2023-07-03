@@ -1,0 +1,18 @@
+.searchItem{
+    display: flex;
+    background-color: beige;
+    height: 60vh;
+    text-align: center;
+    justify-content: space-between;
+}
+.aname{
+    display: flex;
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+    justify-content: center;
+    color: red;
+}
+.ambImg{
+    margin-left: 300px;
+}
